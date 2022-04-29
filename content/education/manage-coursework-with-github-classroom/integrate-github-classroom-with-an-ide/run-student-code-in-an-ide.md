@@ -22,4 +22,3 @@ For more information about IDEs, see "[Integrate {% data variables.product.prodn
 {% data reusables.classroom.click-classroom-in-list %}
 {% data reusables.classroom.click-assignment-in-list %}
 1. To the right of the submission, click **View IDE**.
-  !["View IDE" button for submission using an online IDE](/assets/images/help/classroom/assignments-click-view-ide.png)
